@@ -1,0 +1,10 @@
+[INFO ] 2021-06-10 15:40:48.501 [main] Log4jDemo - This is info log.
+[DEBUG] 2021-06-10 15:40:48.505 [main] Log4jDemo - This is debug log.
+[ERROR] 2021-06-10 15:40:48.505 [main] Log4jDemo - This is error log.
+[FATAL] 2021-06-10 15:40:48.505 [main] Log4jDemo - This is fatal log.
+[WARN ] 2021-06-10 15:40:48.505 [main] Log4jDemo - This is warn log.
+[INFO ] 2021-06-17 11:06:27.952 [main] Log4jDemo - This is info log.
+[DEBUG] 2021-06-17 11:06:27.957 [main] Log4jDemo - This is debug log.
+[ERROR] 2021-06-17 11:06:27.957 [main] Log4jDemo - This is error log.
+[FATAL] 2021-06-17 11:06:27.958 [main] Log4jDemo - This is fatal log.
+[WARN ] 2021-06-17 11:06:27.958 [main] Log4jDemo - This is warn log.
